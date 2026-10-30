@@ -1,0 +1,6 @@
+build/
+_work/
+*.log
+backup-*/
+*.keystore
+.DS_Store
