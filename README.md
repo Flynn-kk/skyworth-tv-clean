@@ -121,6 +121,13 @@ tools/                PowerShell 脚本
 assets/screenshots/   实拍截图
 ```
 
+## 相关项目
+
+- [fengmi-projector-clean](https://github.com/Flynn-kk/fengmi-projector-clean) —— 峰米投影仪（小明 Q3 Pro）
+  的同类改造：那台设备不允许第三方桌面当默认桌面，解法是"用无障碍服务吃掉遥控器 Home 键"。
+  两台的思路可以对照着看：**创维是固件按属性拉组件，峰米是系统只认自带桌面**。
+
+
 ## 声明
 
 - 只在**自己拥有的**电视上操作，风险自担。改系统设置可能影响保修。
